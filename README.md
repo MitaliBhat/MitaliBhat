@@ -6,7 +6,7 @@
 
 📫 How to reach me **mitali4bhat@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitalibhat&label=Profile%20views&color=0e75b6&style=flat" alt="mitalibhat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitalibhat&style=for-the-badge&abbreviated=true&color=ff69b4" alt="mitalibhat" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
