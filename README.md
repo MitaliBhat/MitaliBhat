@@ -19,6 +19,6 @@
 
 <br><hr>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitalibhat&show_icons=true&locale=en&layout=compact" alt="mitalibhat" /></p>
+<p align="center"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitalibhat&show_icons=true&locale=en&layout=compact" alt="mitalibhat" /></p>
   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mitalibhat&show_icons=true&locale=en" alt="mitalibhat" /><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitalibhat&" alt="mitalibhat" /></p>
+<p align="center"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=mitalibhat&show_icons=true&locale=en" alt="mitalibhat" /><br><br><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mitalibhat&" alt="mitalibhat" /></p>
