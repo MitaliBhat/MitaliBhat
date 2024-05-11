@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Mitali Bhat</h1>
-<h3 align="center">I am a Data Analyst</h3>
+<h3 align="center">Aspiring Data Analyst | Frontend Developer</h3>
 <hr>
 
 <img align="right" alt="Coder Girl Gif" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
